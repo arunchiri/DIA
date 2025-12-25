@@ -45,11 +45,6 @@ python train.py
 
 Saved weights are stored in `checkpoints/`. After training, check for `best.pt` and `meta.pt`.
 
-## Notes
-
-- This README is intentionally brief. Add project-specific setup, hyperparameters, and examples here.
-- If you want, I can add a `requirements.txt`, an example training command, or expand the usage section.
-
 ## Contact
 
-If you need help, tell me what to add and I will update this README.
+arun.wind007@gmail.com
